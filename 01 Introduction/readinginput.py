@@ -4,5 +4,4 @@ def read():
 	return s
 
 # Main
-my_str = read()
-print(my_str)
+print(read())

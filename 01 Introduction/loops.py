@@ -10,5 +10,4 @@ def read():
 		# print(i**2)
 
 # Main
-my_str = read()
-print(my_str)
+read()

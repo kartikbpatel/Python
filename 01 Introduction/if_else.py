@@ -7,5 +7,4 @@ def read():
 		return "Not Weird"
 
 # Main
-my_str = read()
-print(my_str)
+print(read())
