@@ -22,7 +22,7 @@ except socket.error:
 # first arg (host) is empty, can receive from any host
 # second arg (port)
 try:
-	mysock.bind(("",1234))
+	mysock.bind(("",123))
 except socket.error:
 	print("Failed to bind")
 	sys.exit()
